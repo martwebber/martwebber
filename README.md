@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Martin Mwangi</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/__mart" target="blank"><img src="https://img.shields.io/twitter/follow/__mart?logo=twitter&style=for-the-badge" alt="__mart" /></a> </p>
-
 - 🌱 I’m currently learning **Ruby on Rails, Google Cloud**
 
 - 💬 Ask me about **react, ruby**
 
-- 📫 How to reach me **https://twitter.com/__mart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
